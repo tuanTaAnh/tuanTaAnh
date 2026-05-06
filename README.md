@@ -81,9 +81,3 @@ Built churn prediction, customer segmentation, recommendation, and demand foreca
 - Google Cloud Professional Machine Learning Engineer
 - IELTS 7.0
 - Vietnam Mathematical Olympiad Award
-
-## Contact
-
-LinkedIn: [linkedin.com/in/ta-anh-tuan-ai-engineer](https://linkedin.com/in/ta-anh-tuan-ai-engineer)  
-GitHub: [github.com/tuanTaAnh](https://github.com/tuanTaAnh)  
-Email: [anhtuan19981998@gmail.com](mailto:anhtuan19981998@gmail.com)
