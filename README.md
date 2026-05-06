@@ -1,83 +1,106 @@
+<div align="center">
+
 # Hi, I'm Tuan 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ta--anh--tuan--ai--engineer-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ta-anh-tuan-ai-engineer)
-[![GitHub](https://img.shields.io/badge/GitHub-tuanTaAnh-black?style=for-the-badge&logo=github)](https://github.com/tuanTaAnh)
-[![Email](https://img.shields.io/badge/Email-anhtuan19981998%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:anhtuan19981998@gmail.com)
+### AI Engineer | GenAI & RAG | Backend APIs | SaaS Automation
 
-## About Me
+I build practical AI systems, automation workflows, and data-driven prototypes using LLMs, backend APIs, vector search, and cloud services.
 
-AI Engineer with experience building GenAI applications, RAG systems, backend APIs, automation workflows, and data-driven AI solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ta--anh--tuan--ai--engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ta-anh-tuan-ai-engineer)
+[![GitHub](https://img.shields.io/badge/GitHub-tuanTaAnh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuanTaAnh)
+[![Email](https://img.shields.io/badge/Email-anhtuan19981998%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhtuan19981998@gmail.com)
 
-I focus on turning business problems into practical AI systems, from document processing and retrieval pipelines to SaaS integrations, chatbots, analytics workflows, and cloud-based prototypes.
+</div>
 
-## Technical Focus
+---
 
-### AI & LLM Applications
-Prompt Engineering, RAG, LangChain, ChatGPT, Gemini, Ollama, Embeddings, Vector Databases, Guardrails
+## 🚀 About Me
+
+AI Engineer with experience in **GenAI applications, RAG systems, backend APIs, automation workflows, SaaS integrations, and data science solutions**.
+
+I focus on turning business problems into working AI products — from document processing and retrieval pipelines to chatbots, API integrations, analytics workflows, and cloud-based prototypes.
+
+---
+
+## 🧠 Tech Stack
+
+### AI & LLM
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Vector DB](https://img.shields.io/badge/Vector%20Database-0052CC?style=flat-square)
 
 ### Backend & Automation
-Python, FastAPI, Node.js, REST APIs, Webhooks, PostgreSQL, CloudSQL, Docker
 
-### Data Science & Machine Learning
-SQL, Pandas, scikit-learn, XGBoost, K-Means, ARIMA, LSTM, Model Evaluation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF9800?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Cloud & Tools
-GCP, Vertex AI, BigQuery, AWS, Azure, Milvus, Looker, Tableau, Git
+### Data & Cloud
 
-## Featured GitHub Projects
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### Sovra Platform — Full-Stack SaaS Prototype
-[Backend Repository](https://github.com/tuanTaAnh/Sovra-Platform) | [Frontend Repository](https://github.com/tuanTaAnh/Sovra-Frontend)
+---
+
+## 📌 Featured GitHub Projects
+
+### 🧩 Sovra Platform — Full-Stack SaaS Prototype
+
+[![Backend](https://img.shields.io/badge/Backend-Sovra--Platform-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/tuanTaAnh/Sovra-Platform)
+[![Frontend](https://img.shields.io/badge/Frontend-Sovra--Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/tuanTaAnh/Sovra-Frontend)
 
 Full-stack SaaS-oriented prototype combining backend APIs, workflow logic, data processing, and a ReactJS frontend interface.
 
-**Backend:** Python, API development, data processing, integration logic  
-**Frontend:** ReactJS, user interface, dashboard-style workflow interaction  
-**Focus:** SaaS prototype, backend/frontend integration, workflow management
+**Focus:** SaaS prototype · Backend/frontend integration · Workflow management
 
-### Emotion Classification — Master's Project
-[Repository](https://github.com/tuanTaAnh/Emotion-Classification)
+---
 
-Academic machine learning project for emotion classification using notebook-based experimentation, data preprocessing, model training, and evaluation.
+### 😊 Emotion Classification — Master's Project
 
-**Type:** Master's coursework project  
-**Tools:** Jupyter Notebook, Python, machine learning workflow  
-**Focus:** Classification, preprocessing, experimentation, model evaluation
+[![Repository](https://img.shields.io/badge/View%20Repository-Emotion--Classification-181717?style=for-the-badge&logo=github)](https://github.com/tuanTaAnh/Emotion-Classification)
 
-### Leaf Classification — Master's Project
-[Repository](https://github.com/tuanTaAnh/Leaf-Classification)
+Academic machine learning project for emotion classification using notebook-based experimentation, preprocessing, model training, and evaluation.
 
-Academic computer vision project for leaf image classification, focused on dataset preparation, model experimentation, and classification performance evaluation.
+**Focus:** Classification · Notebook experiments · Model evaluation
 
-**Type:** Master's coursework project  
-**Tools:** Jupyter Notebook, Python, computer vision, image classification  
-**Focus:** Image classification, computer vision, model evaluation
+---
 
-## Professional Project Experience
+### 🍃 Leaf Classification — Master's Project
 
-### AI SaaS Workflow Automation
-Built AI-powered workflows for call summaries, sentiment analysis, follow-up generation, auto-tagging, and SaaS integrations using LangChain, ChatGPT, Node.js, PostgreSQL, Telnyx, Slack OAuth, and Stripe.
+[![Repository](https://img.shields.io/badge/View%20Repository-Leaf--Classification-181717?style=for-the-badge&logo=github)](https://github.com/tuanTaAnh/Leaf-Classification)
 
-### Enterprise GenAI Chatbot
-Built a GCP-based chatbot using Gemini, embeddings, CloudSQL, and Retrieval-Augmented Generation to answer domain-specific business questions.
+Academic computer vision project for leaf image classification, focused on dataset preparation, model experimentation, and classification performance.
 
-### RAG Finance Assistant
-Developed a retrieval-augmented assistant for financial analysis using document parsing, embeddings, vector search, and GPT-based answer generation.
+**Focus:** Computer vision · Image classification · Model evaluation
 
-### Customer Analytics & Forecasting
-Built churn prediction, customer segmentation, recommendation, and demand forecasting workflows using Python, SQL, XGBoost, K-Means, ARIMA, LSTM, BigQuery, and Looker.
+---
 
-## What I Like Building
+## 💼 Professional AI Experience
 
-- AI-powered business workflows
-- RAG and knowledge assistant systems
-- Backend APIs and automation pipelines
-- SaaS integrations with external tools
-- Data science and analytics prototypes
-- Cloud-deployed AI applications
+| Area | Experience |
+|---|---|
+| **AI Automation** | Built AI workflows for call summaries, sentiment analysis, follow-up generation, auto-tagging, and document processing |
+| **RAG Systems** | Built retrieval-augmented assistants using embeddings, vector search, CloudSQL, Milvus, Gemini, and GPT |
+| **SaaS Integrations** | Integrated APIs and webhooks including Telnyx, Slack OAuth, Stripe, Twilio, Dialogflow, and Botpress |
+| **Data Science** | Built churn prediction, customer segmentation, recommendation, and forecasting workflows using Python, SQL, XGBoost, K-Means, ARIMA, and LSTM |
 
-## Certifications
+---
 
-- Google Cloud Professional Machine Learning Engineer
-- IELTS 7.0
-- Vietnam Mathematical Olympiad Award
+## 🛠️ What I Like Building
+
+```text
+AI-powered workflows      RAG assistants
+Backend APIs              SaaS integrations
+Automation pipelines      Data science prototypes
+Cloud-deployed AI apps    Business-facing AI tools
