@@ -70,6 +70,7 @@ I focus on turning business problems into working AI products — from document 
 
 ### 🧩 Sovra Platform — Full-Stack SaaS Prototype
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-00A67E?style=for-the-badge&logo=huggingface&logoColor=white)](https://anhtuan19981998-sovra-frontend.hf.space)
 [![Backend](https://img.shields.io/badge/Backend-Sovra--Platform-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/tuanTaAnh/Sovra-Platform)
 [![Frontend](https://img.shields.io/badge/Frontend-Sovra--Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/tuanTaAnh/Sovra-Frontend)
 
