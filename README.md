@@ -1,26 +1,24 @@
 # Hi, I'm Tuan 👋
 
-AI Engineer and M.Sc. Data Science student based in Berlin, Germany.
-
-I build AI-powered workflows, RAG systems, backend APIs, automation pipelines, and SaaS-oriented prototypes using Python, SQL, LangChain, OpenAI/Gemini, PostgreSQL, Docker, and cloud services.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ta--anh--tuan--ai--engineer-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ta-anh-tuan-ai-engineer)
+[![GitHub](https://img.shields.io/badge/GitHub-tuanTaAnh-black?style=for-the-badge&logo=github)](https://github.com/tuanTaAnh)
+[![Email](https://img.shields.io/badge/Email-anhtuan19981998%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:anhtuan19981998@gmail.com)
 
 ## About Me
 
-- M.Sc. student in Data Science, AI & Digital Business at GISMA University of Applied Sciences
-- 6+ years of experience in AI engineering, data science, and cloud-based solutions
-- Experience with GenAI chatbots, RAG systems, workflow automation, SaaS integrations, and data pipelines
-- Worked with international clients across finance, retail, healthcare, legal-tech, and technology domains
-- Based in Berlin with a valid German work permit
+AI Engineer with experience building GenAI applications, RAG systems, backend APIs, automation workflows, and data-driven AI solutions.
 
-## Skills
+I focus on turning business problems into practical AI systems, from document processing and retrieval pipelines to SaaS integrations, chatbots, analytics workflows, and cloud-based prototypes.
 
-### AI & LLM
-Prompt Engineering, RAG, LangChain, ChatGPT, Gemini, Ollama, Embeddings, Guardrails
+## Technical Focus
+
+### AI & LLM Applications
+Prompt Engineering, RAG, LangChain, ChatGPT, Gemini, Ollama, Embeddings, Vector Databases, Guardrails
 
 ### Backend & Automation
 Python, FastAPI, Node.js, REST APIs, Webhooks, PostgreSQL, CloudSQL, Docker
 
-### Data & Machine Learning
+### Data Science & Machine Learning
 SQL, Pandas, scikit-learn, XGBoost, K-Means, ARIMA, LSTM, Model Evaluation
 
 ### Cloud & Tools
@@ -32,21 +30,25 @@ GCP, Vertex AI, BigQuery, AWS, Azure, Milvus, Looker, Tableau, Git
 Built AI-powered workflows for call summaries, sentiment analysis, follow-up generation, auto-tagging, and SaaS integrations using LangChain, ChatGPT, Node.js, PostgreSQL, Telnyx, Slack OAuth, and Stripe.
 
 ### RAG Finance Assistant
-Developed a retrieval-augmented chatbot for finance analysis using embeddings, vector databases, document parsing, and GPT-based answer generation.
+Developed a retrieval-augmented assistant for financial analysis using document parsing, embeddings, vector search, and GPT-based answer generation.
 
 ### Enterprise GenAI Chatbot
-Built a GCP-based chatbot using Gemini, embeddings, CloudSQL, and RAG to answer domain-specific business questions.
+Built a GCP-based chatbot using Gemini, embeddings, CloudSQL, and Retrieval-Augmented Generation to answer domain-specific business questions.
 
 ### Customer Analytics & Forecasting
-Built churn prediction, customer segmentation, recommendation systems, and demand forecasting workflows using Python, SQL, XGBoost, K-Means, ARIMA, LSTM, BigQuery, and Looker.
+Built churn prediction, customer segmentation, recommendation, and demand forecasting workflows using Python, SQL, XGBoost, K-Means, ARIMA, LSTM, BigQuery, and Looker.
+
+## What I Like Building
+
+- AI-powered business workflows
+- RAG and knowledge assistant systems
+- Backend APIs and automation pipelines
+- SaaS integrations with external tools
+- Data science and analytics prototypes
+- Cloud-deployed AI applications
 
 ## Certifications
 
 - Google Cloud Professional Machine Learning Engineer
 - IELTS 7.0
 - Vietnam Mathematical Olympiad Award
-
-## Contact
-
-LinkedIn: https://linkedin.com/in/ta-anh-tuan-ai-engineer  
-Email: anhtuan19981998@gmail.com
