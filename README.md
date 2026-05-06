@@ -33,6 +33,19 @@ I focus on turning business problems into working AI products — from document 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 ![Vector DB](https://img.shields.io/badge/Vector%20Database-0052CC?style=flat-square)
 
+### Data Science & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square)
+![K--Means](https://img.shields.io/badge/K--Means-6A5ACD?style=flat-square)
+![Time Series](https://img.shields.io/badge/Time%20Series-008080?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting-0A66C2?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-7952B3?style=flat-square)
+
 ### Backend & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
