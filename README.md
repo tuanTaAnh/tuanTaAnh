@@ -68,6 +68,18 @@ I focus on turning business problems into working AI products — from document 
 
 ## 📌 Featured GitHub Projects
 
+### 🌍 WortWander — German Vocabulary Learning App
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vobcabulary-learning-app-fe.vercel.app)
+[![Frontend](https://img.shields.io/badge/Frontend-WortWander%20FE-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/tuanTaAnh/vobcabulary-learning-app-fe)
+[![Backend](https://img.shields.io/badge/Backend-WortWander%20BE-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/tuanTaAnh/vobcabulary-learning-app-be)
+
+Full-stack German vocabulary learning app with vocabulary management, collections, starred words, flashcards, MCQ practice, learning statistics, and AI-assisted example generation.
+
+**Focus:** React · TypeScript · Vite · FastAPI · SQLModel · SQLite · REST API · Docker
+
+---
+
 ### 🧩 Sovra Platform — Full-Stack SaaS Prototype
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-00A67E?style=for-the-badge&logo=huggingface&logoColor=white)](https://anhtuan19981998-sovra-frontend.hf.space)
