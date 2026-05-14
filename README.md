@@ -70,7 +70,7 @@ I focus on turning business problems into working AI products — from document 
 
 ### 🌍 WortWander — German Vocabulary Learning App
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vobcabulary-learning-app-fe.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vobcabulary-learning-app-fe.vercel.app)
 [![Frontend](https://img.shields.io/badge/Frontend-WortWander%20FE-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/tuanTaAnh/vobcabulary-learning-app-fe)
 [![Backend](https://img.shields.io/badge/Backend-WortWander%20BE-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/tuanTaAnh/vobcabulary-learning-app-be)
 
