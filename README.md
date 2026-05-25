@@ -68,6 +68,19 @@ I focus on turning business problems into working AI products — from document 
 
 ## 📌 Featured GitHub Projects
 
+### 🧱 PipeForge — LLM-Powered Data Pipeline Builder
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-FFB000?style=for-the-badge&logo=huggingface&logoColor=black)](https://anhtuan19981998-pipeforge-demo.hf.space)
+[![Repository](https://img.shields.io/badge/View%20Repository-PipeForge-181717?style=for-the-badge&logo=github)](https://github.com/tuanTaAnh/pipeforge-capstone)
+
+LLM-powered data pipeline builder that turns natural-language analytics requests into transparent workflows, SQL artifacts, data product drafts, tests, documentation, and executable pipeline outputs.
+
+The system supports metadata-aware request planning, human-in-the-loop clarification, source profiling, direct analytics queries, dbt-style artifact generation, validation, targeted repair, and real-time agent trace visualization.
+
+**Focus:** LLM agents · Data pipelines · FastAPI · React · TypeScript · SQLite · OpenHands · Metadata-driven planning · SQL validation · Docker
+
+---
+
 ### 🌍 WortWander — German Vocabulary Learning App
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vobcabulary-learning-app-fe.vercel.app)
