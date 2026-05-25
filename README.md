@@ -73,11 +73,9 @@ I focus on turning business problems into working AI products — from document 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-FFB000?style=for-the-badge&logo=huggingface&logoColor=black)](https://anhtuan19981998-pipeforge-demo.hf.space)
 [![Repository](https://img.shields.io/badge/View%20Repository-PipeForge-181717?style=for-the-badge&logo=github)](https://github.com/tuanTaAnh/pipeforge-capstone)
 
-LLM-powered data pipeline builder that turns natural-language analytics requests into transparent workflows, SQL artifacts, data product drafts, tests, documentation, and executable pipeline outputs.
+LLM-powered data pipeline builder for generating analytics queries, data product drafts, SQL models, tests, documentation, and executable pipeline outputs from natural-language requests.
 
-The system supports metadata-aware request planning, human-in-the-loop clarification, source profiling, direct analytics queries, dbt-style artifact generation, validation, targeted repair, and real-time agent trace visualization.
-
-**Focus:** LLM agents · Data pipelines · FastAPI · React · TypeScript · SQLite · OpenHands · Metadata-driven planning · SQL validation · Docker
+**Focus:** LLM agents · Data pipelines · FastAPI · React · TypeScript · SQLite · OpenHands · Docker
 
 ---
 
